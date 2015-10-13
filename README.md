@@ -5,6 +5,9 @@ Le projet est dévoppé en utilisant Bubble.is.
 L'accès se fait en ligne après avoir été invité à collaborer sur l'application :
 https://bubble.is/page?name=index&id=salon-education2015&tab=tabs-1
 
+
+Pour visiter l'application déployée : https://bubble.is/site/salon-education2015/version-test/
+
 # Echéances :
 - Notre échéance compte tenu des contraintes : 31/10/2015
 
@@ -25,6 +28,7 @@ Il existe les lessons + des vidéos supplémentaire (If you want to see the arro
 - Forum (il faut créer un nouveau compte pour y accéder) : http://forum.bubble.is/
 
 - Tuto pas à pas avec une app exemple : https://medium.com/inside-the-bubble/how-i-built-an-app-in-30-minutes-using-bubble-1b15725bd221
+
 - Code source de full calendar (si besoin) : http://fullcalendar.io/docs/resource_data/Resource_Object/
 
 
@@ -39,3 +43,9 @@ Il existe les lessons + des vidéos supplémentaire (If you want to see the arro
 # Divers
 
 Le projet ne peut être déployé si l'application à des bugs appelés issues.
+
+
+# Outils
+
+- Tester une application sur plusieurs appareils : http://mobiletest.me/
+- Test de compatibilité mobile via google : https://www.google.com/webmasters/tools/mobile-friendly/?hl=fr&url=https%3A%2F%2Fbubble.is%2Fsite%2Fsalon-education2015%2Fversion-test%2F
