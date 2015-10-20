@@ -8,6 +8,15 @@ https://bubble.is/page?name=index&id=salon-education2015&tab=tabs-1
 
 Pour visiter l'application déployée : https://bubble.is/site/salon-education2015/version-test/
 
+Les tests de nouvelles fonctionnalités se font sur l'app "bac à sable"
+Deux utilisateurs sont disponibles :
+
+- user@simplon.co / mdp : "user"
+- admin@simplon.co / mdp "admin" avec comme rôle "admin"
+
+Ces adresses n'existent pas donc pour tester des fonctions avec récupération de mail il faut utiliser vos adresses.
+
+
 # Echéances :
 - Notre échéance compte tenu des contraintes : 31/10/2015
 
