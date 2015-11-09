@@ -7,14 +7,14 @@
         id        = "is.bubble.mobileapp"
         version   = "1.0.0">
 
-    <name>Bubble</name>
+    <name>Salon européen de l'éducation</name>
 
     <description>
-        Manage your Bubble apps on your phone
+        Tous les événements et conférences du salon européen de l'éducation
     </description>
 
-    <author href="https://bubble.is" email="support@bubble.is">
-        Bubble Group, Inc.
+    <author href="http://prod.simplon.co" email="inbox@simplon.co">
+        Simplon Prod / Ligue de l'enseignement
     </author>
 
     <!--
